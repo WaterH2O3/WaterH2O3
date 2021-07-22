@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Discord bro
 - 😄 Pronouns: ... NO nouns?
 - ⚡ Fun fact: ... I like water
--->
+
